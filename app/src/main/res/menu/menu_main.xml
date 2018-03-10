@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.edu.ittepic.a2_2_5_gestor_pacientes.MainActivity">
+    <item
+        android:id="@+id/delete_all"
+        android:orderInCategory="100"
+        android:title="Borrar todo"
+        app:showAsAction="never" />
+</menu>
